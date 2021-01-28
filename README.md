@@ -1,24 +1,25 @@
-# README
+# Project Merit
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+#### About 
 
-Things you may want to cover:
+This is an employee engagement application to encourage greater levels of productivity and retention within companies. 
+The demo can be viewed here: <Link>
 
-* Ruby version
+###### This was built using:
 
-* System dependencies
+* Rails and Puma on the back-end;
+* React for the front-end, utilizing webhooks and react-router;
+* Postgresql for the database;
+* API to carry data between front-end, back-end and server.
+* Axios for API consumption.
 
-* Configuration
+###### Features:
 
-* Database creation
+* Landing page to inform visitors of the product.
+* Main feed where employees can make and view posts. 
 
-* Database initialization
+###### Future feature additions:
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Points are to be shared by employees.
+* Onboarding and authentication capability.
+* Introduce reward redemption.

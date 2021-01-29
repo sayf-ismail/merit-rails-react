@@ -3,7 +3,7 @@
 #### About 
 
 This is an employee engagement application to encourage greater levels of productivity and retention within companies. 
-The demo can be viewed here: <Link>
+The demo can be viewed here: https://boiling-gorge-42633.herokuapp.com/
 
 ###### This was built using:
 
